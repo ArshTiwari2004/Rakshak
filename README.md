@@ -1,8 +1,30 @@
-# React + Vite
+# VIHAAN HACKATHON 
+# RAKSHAK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- RAKSHAK revolutionizes defense inventory management and enhances national security.
+- Deployment within Ministry of Defence and military facilities.
+- Streamlined inventory processes with barcode integration for efficient tracking.
+- Deep Learning CNN model analyzes satellite imagery for proactive threat detection.
+- Feasibility considerations include data integration and user training.
+- Challenges involve technical infrastructure and data security.
+- Offered as a SaaS platform with strategic partnerships.
+- Robust sales and marketing strategies for market penetration.
+- Continuous product development for growth and innovation.
+- Legal compliance, financial planning, and risk management prioritized.
+- Provides defense organizations with optimized inventory management and enhanced security capabilities.
 
-Currently, two official plugins are available:
+login credentials for accessing dashbaord
+- Username : sample123@gmail.com
+- Password : 123456789
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How to run:
+```
+npm i -Force
+npm run dev
+```
+
+We plan to deploy this project on [GoDaddy](https://www.godaddy.com/en-in)
+
+![ARMY](https://github.com/ArshTiwari2004/Vihaan-Hackathon/blob/main/public/images/army.jpeg)
+
+
