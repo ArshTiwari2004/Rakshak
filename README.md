@@ -1,4 +1,3 @@
-# VIHAAN HACKATHON 
 # RAKSHAK
 
 - RAKSHAK revolutionizes defense inventory management and enhances national security.
