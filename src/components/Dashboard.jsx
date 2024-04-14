@@ -80,7 +80,7 @@ const Dashboard = () => {
         //setFilteredInventory(filteredItems);
     }, []);
 
-    // Chart rendering effects (omitted for brevity)...
+    
 
     // Display critical alerts
     useEffect(() => {
